@@ -16,3 +16,5 @@ for(option of options){
     arrowIcon.classList.toggle('rotate');
 } 
     }
+
+    //    //linear-gradient(#6284FF, #0093E9, #FC00FF);
